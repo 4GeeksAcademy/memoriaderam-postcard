@@ -1,0 +1,2 @@
+# memoriaderam-postcard
+pratica1
